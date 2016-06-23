@@ -1,0 +1,14 @@
+{
+  "name": "ogario_key_mapper",
+  "version": "1.0.0",
+  "description": "remap the hotkey of ogario",
+  "main": "ogario_key_remap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "irmgrx",
+  "license": "ISC",
+  "dependencies": {
+    "node-wget": "^0.4.2"
+  }
+}
