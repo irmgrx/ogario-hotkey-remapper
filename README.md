@@ -1,5 +1,8 @@
 ### Ogario Hotkey Remapper
-This is for remapping the hotkey of ogario extension
+- Remapping hotkeys of ogario extension for Agar.io
+- Removed annoying command toast
+- Chatbox supports icons from HKGolden
+- No more &lt; &rt; &amp; ... in chatbox
 
 ### How to use?
 1. config ogario_key_map.json by your own preference
