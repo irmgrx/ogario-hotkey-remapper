@@ -7,6 +7,9 @@
 ### Icons preview
 ![ogario_icons](https://s31.postimg.org/yybh5zjx7/ogario_icons.png)
 
+### Example user script
+[user script with default hotkey](http://pastebin.com/sviL1qr4)
+
 ### How to use?
 1. config ogario_key_map.json by your own preference
 2. run the program
