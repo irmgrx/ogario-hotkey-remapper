@@ -4,6 +4,9 @@
 - Chatbox supports icons from HKGolden
 - No more &lt; &rt; &amp; ... in chatbox
 
+### Icons preview
+![ogario_icons](https://s31.postimg.org/yybh5zjx7/ogario_icons.png)
+
 ### How to use?
 1. config ogario_key_map.json by your own preference
 2. run the program
